@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1951
     wikipedia: http://en.wikipedia.org/wiki/M._M._Mangasarian
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45293#What-was-the-Religion-of-Shakespeare-
 gutenberg_issued: '2014-04-01'
 gutenberg_type: Text
 identifiers:
